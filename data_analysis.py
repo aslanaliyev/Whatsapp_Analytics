@@ -351,7 +351,7 @@ def gemini_chat_analysis(df):
     """Analyzes the WhatsApp chat data using the Gemini API."""
     """Performs the analysis and reports progress if callback is provided."""
 
-    GOOGLE_API_KEY = "AIzaSyByXH1FPoo99MvtR2kGDMDWIspOTyA1ch4"  # Replace with your API key
+    GOOGLE_API_KEY = "XXXXXXXXXXXXXXXXXXXX"  # Replace with your API key
     genai.configure(api_key=GOOGLE_API_KEY)
 
     # Prepare data for Gemini, only calling functions once
