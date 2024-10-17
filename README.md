@@ -1,9 +1,7 @@
 Usage
 1. Prepare your WhatsApp chat export: Export your chat as a .txt file from WhatsApp.
 
-2. Update the file_path variable: In the main.py file, update the file_path variable to point to the location of your exported chat file.
-
-3. Run the application (app_window.py):
+2. Run the application (app_window.py):
 
 The application has a user-friendly interface with the following sections:
 Top 10 Emojis: Displays the top emojis used overall and by each person.
